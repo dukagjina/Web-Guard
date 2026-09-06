@@ -1,0 +1,13 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(filevers=(0, 1, 2, 0), prodvers=(0, 1, 2, 0), mask=0x3f, flags=0x0, OS=0x40004, fileType=0x1, subtype=0x0, date=(0, 0)),
+  kids=[StringFileInfo([StringTable('040904B0', [
+    StringStruct('CompanyName', 'Zuyis'),
+    StringStruct('FileDescription', 'Web Guard Service'),
+    StringStruct('FileVersion', '0.1.2'),
+    StringStruct('InternalName', 'Web Guard Service'),
+    StringStruct('LegalCopyright', 'Copyright © 2026 Zuyis. All rights reserved.'),
+    StringStruct('OriginalFilename', 'Web Guard Service.exe'),
+    StringStruct('ProductName', 'Web Guard'),
+    StringStruct('ProductVersion', '0.1.2')
+  ])]), VarFileInfo([VarStruct('Translation', [1033, 1200])])]
+)

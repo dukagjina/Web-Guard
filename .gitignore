@@ -1,0 +1,27 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Generated packaging output
+build/
+dist/
+tmp/
+
+# Editor, operating-system and local diagnostic files
+.idea/
+.vscode/
+.openai/
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
+*~
+.DS_Store
+Thumbs.db
+desktop.ini

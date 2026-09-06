@@ -1,0 +1,89 @@
+{
+  "built_at": "2026-09-03T12:08:50+00:00",
+  "category_counts": {
+    "abuse": 435017,
+    "crypto": 1272,
+    "malware": 2655726,
+    "phishing": 190143,
+    "redirects": 108682,
+    "scams": 264459
+  },
+  "schema": 1,
+  "source_counts": {
+    "abuse": 435017,
+    "crypto": 1272,
+    "fraud": 256153,
+    "malware": 2655723,
+    "phishing": 190143,
+    "ransomware": 1904,
+    "redirect": 108682,
+    "scam": 8527
+  },
+  "sources": {
+    "abuse": {
+      "description": "Domains involved in abuse",
+      "file": "abuse.txt",
+      "last_modified": "2026-07-06 00:40:18 UTC",
+      "license": "MIT",
+      "sha256": "8d69b514d8e1a079538bfa4b6145b4ede564573a20487a3d356857c3bed6ab3d",
+      "title": "Abuse Block List"
+    },
+    "crypto": {
+      "description": "Cryptocurrency mining and scams",
+      "file": "crypto.txt",
+      "last_modified": "2026-07-06 00:40:19 UTC",
+      "license": "MIT",
+      "sha256": "00392cadad4db90edd2859a2460f0f18dcb99cfd321fa3a675e450cbacf8f255",
+      "title": "Crypto Block List"
+    },
+    "fraud": {
+      "description": "Fraud and scam domains",
+      "file": "fraud.txt",
+      "last_modified": "2026-07-06 00:40:19 UTC",
+      "license": "MIT",
+      "sha256": "16328dd1cfdd9e4a689ba7a914b7be2efe1a7bec2999fa307fb7ae21f1789991",
+      "title": "Fraud Block List"
+    },
+    "malware": {
+      "description": "Malware distribution domains",
+      "file": "malware.txt",
+      "last_modified": "2026-07-18 23:57:34 UTC",
+      "license": "MIT",
+      "sha256": "94f198c94b7091b0108ce82c56040c9ec1431ad678370e2ef3aa9fd8fa2e5980",
+      "title": "Malware Block List"
+    },
+    "phishing": {
+      "description": "Phishing domains",
+      "file": "phishing.txt",
+      "last_modified": "2026-07-06 00:40:29 UTC",
+      "license": "MIT",
+      "sha256": "eef8438f0833bbd90568d52d451787df289c887a895512d84ffc2983ee70e75a",
+      "title": "Phishing Block List"
+    },
+    "ransomware": {
+      "description": "Ransomware C2 and distribution",
+      "file": "ransomware.txt",
+      "last_modified": "2026-07-06 00:40:31 UTC",
+      "license": "MIT",
+      "sha256": "8bdc74116cb2074a2cd263f384c4b16b01e2746e69911018ecd9ffefe9c0d56e",
+      "title": "Ransomware Block List"
+    },
+    "redirect": {
+      "description": "URL shorteners and redirects",
+      "file": "redirect.txt",
+      "last_modified": "2026-07-06 00:40:31 UTC",
+      "license": "MIT",
+      "sha256": "a1a5394be3763043e10e757c7f707e7c28d3805565a081acb9bbff465eb2e812",
+      "title": "Redirect Block List"
+    },
+    "scam": {
+      "description": "Scam domains",
+      "file": "scam.txt",
+      "last_modified": "2026-07-18 01:33:08 UTC",
+      "license": "MIT",
+      "sha256": "6a64b2737c64c61569466aca6f7e1367284248982fac38583bcb73516dd9ee84",
+      "title": "Scam Block List"
+    }
+  },
+  "unique_domains": 3171935
+}
